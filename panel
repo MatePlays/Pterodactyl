@@ -1,0 +1,1 @@
+setup/panel(pterodactyl).-apt-install,update,upgrade | sudo bash
